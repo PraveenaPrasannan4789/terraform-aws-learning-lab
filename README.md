@@ -1,6 +1,6 @@
 # Terraform AWS Basics Project
 
-This project demonstrates Infrastructure as Code (IaC) using Terraform on AWS.
+This project demonstrates Infrastructure as Code (IaC) using Terraform on AWS.(provider aws)
 
 ## Topics
 - Terraform basics
